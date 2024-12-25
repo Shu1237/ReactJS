@@ -1,0 +1,69 @@
+/* UserGreeting */
+.welcome-message,.login-promt{
+  font-size: 2.5em;
+  background-color: green;
+  color: white;
+  padding: 10x;
+  border-radius: 5px;
+  margin: 0;
+}
+.login-promt{
+  background-color: darkred;
+}
+
+
+/* student */
+
+/* .student {
+  font-family: Arial;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid hsl(0, 0%, 50%, 0.8);
+}
+.student{
+  margin: 0px;
+} */
+
+
+/*button*/
+/* .button{
+  background-color: rgba(26, 146, 205, 0.705) ;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+} */
+
+/* card */
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px #0000001f;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 200px;
+  display: inline-block;
+
+}
+
+
+.card .card-image {
+  width: 130px;
+  border-radius: 50px;
+  height: auto;
+  margin-bottom: 11px;
+}
+
+.card .card-title {
+  font-family: Arial;
+  margin: 0;
+  color: rgba(0, 0%, 20%);
+  font-weight: bold;
+}
+
+.card .card-text {
+  font-family: Arial;
+  color: rgba(0, 0%, 30%);
+}
